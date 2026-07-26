@@ -1,0 +1,62 @@
+---
+import { getCollection, render } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+
+export async function getStaticPaths() {
+	const tracks = await getCollection('tracks');
+	return tracks.map((track) => ({
+		params: { id: track.id },
+		props: { track },
+	}));
+}
+
+const { track } = Astro.props;
+const { Content } = await render(track);
+const base = import.meta.env.BASE_URL;
+---
+
+<Layout title={`${track.data.title} — Moon`}>
+	<a class="back" href={base}>&larr; Moon</a>
+	<h1>
+		<span class="num">{String(track.data.number).padStart(2, '0')}</span>
+		{track.data.title}
+	</h1>
+	<div class="lyrics">
+		<Content />
+	</div>
+</Layout>
+
+<style>
+	.back {
+		display: inline-block;
+		margin-bottom: 2rem;
+		color: var(--muted);
+		text-decoration: none;
+		font-size: 0.9rem;
+	}
+
+	.back:hover {
+		color: var(--accent);
+	}
+
+	h1 {
+		font-size: clamp(2rem, 6vw, 3rem);
+		margin: 0 0 2rem;
+	}
+
+	.num {
+		color: var(--muted);
+		margin-right: 0.75rem;
+		font-variant-numeric: tabular-nums;
+	}
+
+	.lyrics {
+		font-size: 1.1rem;
+		line-height: 1.9;
+		white-space: pre-line;
+	}
+
+	.lyrics :global(p) {
+		margin: 0 0 1.4em;
+	}
+</style>

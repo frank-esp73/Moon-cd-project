@@ -1,0 +1,96 @@
+---
+interface Props {
+	title: string;
+}
+
+const { title } = Astro.props;
+const base = import.meta.env.BASE_URL;
+---
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" type="image/svg+xml" href={`${base}favicon.svg`} />
+		<meta name="viewport" content="width=device-width" />
+		<meta name="generator" content={Astro.generator} />
+		<title>{title}</title>
+	</head>
+	<body>
+		<div class="stars"></div>
+		<header>
+			<a class="brand" href={base}>Moon</a>
+			<span class="artist">Frank and Agape</span>
+		</header>
+		<main>
+			<slot />
+		</main>
+		<footer>
+			<p>&copy; {new Date().getFullYear()} Frank and Agape</p>
+		</footer>
+	</body>
+</html>
+
+<style is:global>
+	:root {
+		--bg: #0a0a14;
+		--bg-alt: #12121f;
+		--fg: #e8e8f0;
+		--muted: #8b8ba3;
+		--accent: #cfd8ff;
+		font-family: 'Georgia', 'Times New Roman', serif;
+	}
+
+	* {
+		box-sizing: border-box;
+	}
+
+	html,
+	body {
+		margin: 0;
+		padding: 0;
+	}
+
+	body {
+		background: radial-gradient(ellipse at top, #1a1a2e 0%, var(--bg) 60%);
+		color: var(--fg);
+		min-height: 100vh;
+		display: flex;
+		flex-direction: column;
+	}
+
+	header {
+		display: flex;
+		align-items: baseline;
+		gap: 0.75rem;
+		padding: 2.5rem clamp(1.5rem, 6vw, 4rem) 1rem;
+	}
+
+	.brand {
+		font-size: 1.75rem;
+		letter-spacing: 0.15em;
+		text-transform: uppercase;
+		color: var(--fg);
+		text-decoration: none;
+	}
+
+	.artist {
+		color: var(--muted);
+		font-style: italic;
+	}
+
+	main {
+		flex: 1;
+		padding: 1rem clamp(1.5rem, 6vw, 4rem) 3rem;
+		max-width: 46rem;
+	}
+
+	a {
+		color: var(--accent);
+	}
+
+	footer {
+		padding: 1.5rem clamp(1.5rem, 6vw, 4rem);
+		color: var(--muted);
+		font-size: 0.85rem;
+	}
+</style>
