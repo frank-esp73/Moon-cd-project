@@ -1,14 +1,20 @@
 ---
 import { getCollection } from 'astro:content';
 import Layout from '../layouts/Layout.astro';
+import Moon from '../components/Moon.astro';
 
 const tracks = (await getCollection('tracks')).sort((a, b) => a.data.number - b.data.number);
 const base = import.meta.env.BASE_URL;
 ---
 
-<Layout title="Moon — Frank and Agape">
-	<h1>Moon</h1>
-	<p class="tagline">An album by Frank and Agape.</p>
+<Layout title="Moon & Frank and Agape">
+	<div class="hero">
+		<Moon size="clamp(9rem, 28vw, 16rem)" />
+		<div class="hero__text">
+			<h1>Moon <span class="amp">&amp;</span> Frank and Agape</h1>
+			<p class="tagline">An album by Frank and Agape.</p>
+		</div>
+	</div>
 
 	<ol class="tracklist">
 		{
@@ -25,15 +31,28 @@ const base = import.meta.env.BASE_URL;
 </Layout>
 
 <style>
+	.hero {
+		display: flex;
+		align-items: center;
+		gap: clamp(1.25rem, 4vw, 2.5rem);
+		margin: 1rem 0 3rem;
+	}
+
 	h1 {
-		font-size: clamp(2.5rem, 8vw, 4rem);
-		margin: 0 0 0.25rem;
-		letter-spacing: 0.05em;
+		font-size: clamp(1.9rem, 6vw, 3.25rem);
+		margin: 0 0 0.35rem;
+		letter-spacing: 0.02em;
+		line-height: 1.1;
+	}
+
+	h1 .amp {
+		color: var(--muted);
+		font-style: italic;
 	}
 
 	.tagline {
 		color: var(--muted);
-		margin: 0 0 2.5rem;
+		margin: 0;
 	}
 
 	.tracklist {
@@ -69,5 +88,13 @@ const base = import.meta.env.BASE_URL;
 
 	.title {
 		font-size: 1.05rem;
+	}
+
+	@media (max-width: 30rem) {
+		.hero {
+			flex-direction: column;
+			align-items: flex-start;
+			text-align: left;
+		}
 	}
 </style>

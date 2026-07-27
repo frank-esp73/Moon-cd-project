@@ -1,6 +1,7 @@
 ---
 import { getCollection, render } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
+import Moon from '../../components/Moon.astro';
 
 export async function getStaticPaths() {
 	const tracks = await getCollection('tracks');
@@ -16,11 +17,14 @@ const base = import.meta.env.BASE_URL;
 ---
 
 <Layout title={`${track.data.title} — Moon`}>
-	<a class="back" href={base}>&larr; Moon</a>
-	<h1>
-		<span class="num">{String(track.data.number).padStart(2, '0')}</span>
-		{track.data.title}
-	</h1>
+	<a class="back" href={base}>&larr; Moon &amp; Frank and Agape</a>
+	<div class="heading">
+		<Moon size="3.5rem" />
+		<h1>
+			<span class="num">{String(track.data.number).padStart(2, '0')}</span>
+			{track.data.title}
+		</h1>
+	</div>
 	<div class="lyrics">
 		<Content />
 	</div>
@@ -39,9 +43,16 @@ const base = import.meta.env.BASE_URL;
 		color: var(--accent);
 	}
 
-	h1 {
-		font-size: clamp(2rem, 6vw, 3rem);
+	.heading {
+		display: flex;
+		align-items: center;
+		gap: 1.25rem;
 		margin: 0 0 2rem;
+	}
+
+	h1 {
+		font-size: clamp(1.75rem, 5vw, 2.75rem);
+		margin: 0;
 	}
 
 	.num {
