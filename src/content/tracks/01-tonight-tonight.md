@@ -1,6 +1,6 @@
 ---
 number: 1
-title: "Goodnight Tonight"
+title: "Tonight Tonight"
 ---
 
 *Lyrics coming soon.*
