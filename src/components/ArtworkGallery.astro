@@ -7,16 +7,14 @@ const images = import.meta.glob<{ default: ImageMetadata }>('../assets/artwork/*
 
 const CAPTIONS: Record<string, string> = {
 	'01-coverbooklet': 'Portada y lista de canciones',
-	'02-pag1': 'Tonight Tonight',
-	'03-pag2ext': 'Dedicatoria y Moon',
-	'04-pag2int': 'Interior del folleto',
-	'05-page3ext': 'Interior del folleto',
-	'06-page3int': 'Just Like Heaven y Photograph',
-	'07-pag4ext': 'Interior del folleto',
-	'08-page4int': 'Interior del folleto',
+	'02-tonight-tonight': 'Tonight Tonight',
+	'03-moon': 'Dedicatoria y Moon',
+	'04-a-real-hero-not': 'A Real Hero y Not',
+	'05-just-like-heaven-photograph': 'Just Like Heaven y Photograph',
+	'06-zombie-girl-melancholy-hill': 'Zombie Girl y On Melancholy Hill',
+	'07-weird-fishes-everything-magic': 'Weird Fishes y Everything’s Magic',
+	'08-everlong-first-day': 'Everlong y First Day of My Life',
 	'09-back-tray': 'Contraportada',
-	'10-cd-art1': 'Arte del disco',
-	'11-cd2': 'Arte del disco (alterno)',
 };
 
 const artwork = Object.entries(images)
