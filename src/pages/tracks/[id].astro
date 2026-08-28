@@ -80,4 +80,48 @@ const base = import.meta.env.BASE_URL;
 	.lyrics :global(p) {
 		margin: 0 0 1.4em;
 	}
+
+	.lyrics :global(details.meaning) {
+		white-space: normal;
+		margin: 0 0 1.6em;
+		border: 1px solid rgba(232, 232, 240, 0.15);
+		border-radius: 0.6rem;
+		background: rgba(255, 255, 255, 0.03);
+		padding: 0 1.25rem;
+	}
+
+	.lyrics :global(details.meaning[open]) {
+		padding-bottom: 0.25rem;
+	}
+
+	.lyrics :global(details.meaning summary) {
+		cursor: pointer;
+		padding: 0.9rem 0;
+		color: var(--accent);
+		font-style: italic;
+		font-size: 0.95rem;
+		list-style: none;
+	}
+
+	.lyrics :global(details.meaning summary::-webkit-details-marker) {
+		display: none;
+	}
+
+	.lyrics :global(details.meaning summary::before) {
+		content: '▸ ';
+		display: inline-block;
+		transition: transform 0.15s ease;
+	}
+
+	.lyrics :global(details.meaning[open] summary::before) {
+		transform: rotate(90deg);
+	}
+
+	.lyrics :global(details.meaning p) {
+		margin: 0 0 1.25rem;
+		line-height: 1.75;
+		font-size: 1rem;
+		font-style: italic;
+		color: var(--muted);
+	}
 </style>
