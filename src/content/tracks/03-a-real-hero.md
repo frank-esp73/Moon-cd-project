@@ -23,7 +23,7 @@ Y tú has demostrado ser
 
 <details class="meaning"><summary>Ver el significado</summary>
 
-Veo esta línea como una forma de ir en contra del mundo en el que vivimos. Es un mundo con corrupción, mala fe, sin esperanza y sin fe. No se trata de seguir lo que todos los demás hacen, sino de que, aunque ellos actúen mal, tú sigues eligiendo hacer el bien. Eso es lo que te convierte en un verdadero ser humano y en una heroína.
+Veo esta línea como una forma de ir en contra del mundo en el que vivimos. Es un mundo con corrupción, mala fe y sin esperanza. No se trata de seguir lo que todos los demás hacen, sino de que, aunque ellos actúen mal, tú sigues eligiendo hacer el bien. Eso es lo que te convierte en un verdadero ser humano y en una heroína.
 
 </details>
 
