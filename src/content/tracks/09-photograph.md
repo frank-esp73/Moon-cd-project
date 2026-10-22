@@ -3,4 +3,4 @@ number: 9
 title: "Photograph"
 ---
 
-*Lyrics coming soon.*
+*Esta pista es instrumental, sin letra.*

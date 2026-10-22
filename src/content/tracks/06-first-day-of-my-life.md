@@ -8,7 +8,9 @@ Juro que nací justo en la entrada
 
 <details class="meaning"><summary>Ver el significado</summary>
 
-Quería enviarte esta canción el día que me bauticé. Pensé que era perfecta, pero quería guardarla para este álbum. Debí habértela enviado, era perfecta, justo desde las dos primeras líneas de la canción. Creo que la canción habla sobre el renacimiento. Honestamente, mirando hacia atrás, yo nací cuando entré por primera vez a tu casa, o al menos el amor en mí nació ese día. Y el primer día de mi vida comenzó cuando conocí a Jesús, cuando me bauticé. Todavía me arrepiento de no habértela enviado jajaja.
+Quería enviarte esta canción el día que me bauticé. Pensé que era perfecta, pero quería guardarla para este álbum. Debí habértela enviado, era perfecta, justo desde las dos primeras líneas de la canción.
+
+Creo que la canción habla sobre el renacimiento. Honestamente, mirando hacia atrás, yo nací cuando entré por primera vez a tu casa, o al menos el amor en mí nació ese día. Y el primer día de mi vida comenzó cuando conocí a Jesús, cuando me bauticé. Todavía me arrepiento de no habértela enviado jajaja.
 
 </details>
 
@@ -26,7 +28,9 @@ Creo que estaba ciego antes de conocerte
 
 <details class="meaning"><summary>Ver el significado</summary>
 
-Esta parte me hace pensar en cómo veía el amor antes y darme cuenta de lo súper ciego que estaba. Yo juraba que sabía qué era el amor, pero la verdad no tenía ni idea de lo que se sentía hasta que te conocí, y es algo que jamás me hubiera imaginado. Estar contigo rompió por completo con todas las ideas y expectativas que tenía sobre cómo es el amor. Como dije antes con la otra canción, nunca en mi vida había sentido que encajara en algún lado o que tuviera un hogar de verdad. Pero ahora, con solo estar contigo y verte, siento una seguridad total. Me basta con mirarte bien, mi amor precioso, para saber exactamente hacia dónde voy.
+Esta parte me hace pensar en cómo veía el amor antes y darme cuenta de lo súper ciego que estaba. Yo juraba que sabía qué era el amor, pero la verdad no tenía ni idea de lo que se sentía hasta que te conocí, y es algo que jamás me hubiera imaginado. Estar contigo rompió por completo con todas las ideas y expectativas que tenía sobre cómo es el amor.
+
+Como dije antes con la otra canción, nunca en mi vida había sentido que encajara en algún lado o que tuviera un hogar de verdad. Pero ahora, con solo estar contigo y verte, siento una seguridad total. Me basta con mirarte bien, mi amor precioso, para saber exactamente hacia dónde voy.
 
 </details>
 
@@ -39,7 +43,9 @@ Y me preguntaba si podría volver a casa
 
 <details class="meaning"><summary>Ver el significado</summary>
 
-Esta parte de la canción me encanta porque sentía que me estaba tardando muchísimo en llegar a este punto. Sé que no es lo ideal andar necesitando a otras personas, ya que al único que de verdad deberíamos necesitar es a Dios, pero esa segunda frase me llega muchísimo. Dice que no importa cuánto tiempo pase o lo que cueste, yo quiero estar contigo. La verdad es que a tu lado por fin siento que estoy en casa. Es la primera vez en toda mi vida que me pasa esto; y no es solo que me sienta en casa, es que de verdad ya encontré mi hogar.
+Esta parte de la canción me encanta porque sentía que me estaba tardando muchísimo en llegar a este punto. Sé que no es lo ideal andar necesitando a otras personas, ya que al único que de verdad deberíamos necesitar es a Dios, pero esa segunda frase me llega muchísimo. Dice que no importa cuánto tiempo pase o lo que cueste, yo quiero estar contigo.
+
+La verdad es que a tu lado por fin siento que estoy en casa. Es la primera vez en toda mi vida que me pasa esto; y no es solo que me sienta en casa, es que de verdad ya encontré mi hogar.
 
 </details>
 
@@ -52,7 +58,9 @@ Y dijiste
 
 <details class="meaning"><summary>Ver el significado</summary>
 
-En esta parte, siento que la canción cambia a la vista de la chica (o de su pareja) y muestra el gran esfuerzo que es manejar toda la noche solo para verlo. A él se le hace raro porque probablemente siente que no se merece un amor así de grande. Además, creo que la idea de manejar de noche —donde la noche representa estar perdido— y finalmente verse al amanecer cuando sale el sol, es una buena metáfora. Básicamente significa que aunque todo se veía muy oscuro y difícil, al final siempre sale el sol y encuentras la luz después de un camino tan largo y pesado.
+En esta parte, siento que la canción cambia a la vista de la chica (o de su pareja) y muestra el gran esfuerzo que es manejar toda la noche solo para verlo. A él se le hace raro porque probablemente siente que no se merece un amor así de grande.
+
+Además, creo que la idea de manejar de noche —donde la noche representa estar perdido— y finalmente verse al amanecer cuando sale el sol, es una buena metáfora. Básicamente significa que aunque todo se veía muy oscuro y difícil, al final siempre sale el sol y encuentras la luz después de un camino tan largo y pesado.
 
 </details>
 
@@ -72,7 +80,9 @@ Sólo tenemos que esperar y ver
 
 <details class="meaning"><summary>Ver el significado</summary>
 
-Creo que a veces puede dar miedo debido al tiempo invertido, el esfuerzo y las inseguridades. No hay forma de que podamos saber qué pasará, ya que el futuro no nos pertenece para verlo. Pero confío en Dios y tengo fe en ti, en mí y en nuestra relación. Todas estas cosas hacen que se sienta seguro, estable y con un profundo significado.
+Creo que a veces puede dar miedo debido al tiempo invertido, el esfuerzo y las inseguridades. No hay forma de que podamos saber qué pasará, ya que el futuro no nos pertenece para verlo.
+
+Pero confío en Dios y tengo fe en ti, en mí y en nuestra relación. Todas estas cosas hacen que se sienta seguro, estable y con un profundo significado.
 
 </details>
 
@@ -81,7 +91,9 @@ Que esperar a ganar la lotería, ah-ha, mm-hmm
 
 <details class="meaning"><summary>Ver el significado</summary>
 
-Creo que esta es mi parte favorita de la canción por mucho. Amo estas dos líneas porque creo que el artista captura el amor bastante bien aquí. El amor no es sacarse la lotería o una fantasía que esperas por suerte y de repente cambia tu vida. Creo que es algo cotidiano y necesitas trabajar en él todos los días a través del esfuerzo, la paciencia, con respeto y comprensión. Prefiero estar trabajando todos los días que esperando algo perfecto, cinematográfico y romántico, aunque a veces sí se sienta así. Creo que aborda muy bien el mito del alma gemela.
+Creo que esta es mi parte favorita de la canción por mucho. Amo estas dos líneas porque creo que el artista captura el amor bastante bien aquí. El amor no es sacarse la lotería o una fantasía que esperas por suerte y de repente cambia tu vida.
+
+Creo que es algo cotidiano y necesitas trabajar en él todos los días a través del esfuerzo, la paciencia, con respeto y comprensión. Prefiero estar trabajando todos los días que esperando algo perfecto, cinematográfico y romántico, aunque a veces sí se sienta así. Creo que aborda muy bien el mito del alma gemela.
 
 </details>
 

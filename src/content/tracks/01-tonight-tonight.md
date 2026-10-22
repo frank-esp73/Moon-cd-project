@@ -25,7 +25,9 @@ No somos iguales, somos diferentes
 
 <details class="meaning"><summary>Ver el significado</summary>
 
-Amo esta parte en la que habla de cómo puede cambiar la vida y cómo pueden dar vuelta las cosas. Siendo sincero, antes de conocerte, mi vida no estaba del todo bien, por no decir muy mal. Pensé que así iba a ser para siempre, pero no lo es; las cosas pueden cambiar.
+Amo esta parte en la que habla de cómo puede cambiar la vida y cómo pueden dar vuelta las cosas.
+
+Siendo sincero, antes de conocerte, mi vida no estaba del todo bien, por no decir muy mal. Pensé que así iba a ser para siempre, pero no lo es; las cosas pueden cambiar.
 
 </details>
 
@@ -88,6 +90,8 @@ Esta noche
 
 <details class="meaning"><summary>Ver el significado</summary>
 
-Claro que en el camino nos vamos a encontrar con problemas (como los marcianos en el video) y momentos en los que sentiremos que no hay salida ni esperanza. Sin embargo, lo importante es mantener viva esa llama interior, apoyarnos en algo más grande que nosotros: Dios. Las experiencias y la gente que nos rodea son lo que hace que todo el viaje valga la pena. Yo confío mucho en ti, y con esto solo quiero pedirte una cosa: anímate a dar el salto y confía en mí también.
+Claro que en el camino nos vamos a encontrar con problemas (como los marcianos en el video) y momentos en los que sentiremos que no hay salida ni esperanza. Sin embargo, lo importante es mantener viva esa llama interior, apoyarnos en algo más grande que nosotros: Dios.
+
+Las experiencias y la gente que nos rodea son lo que hace que todo el viaje valga la pena. Yo confío mucho en ti, y con esto solo quiero pedirte una cosa: anímate a dar el salto y confía en mí también.
 
 </details>

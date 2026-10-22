@@ -5,7 +5,11 @@ title: "Just Like Heaven"
 
 <details class="meaning"><summary>Sobre esta canción</summary>
 
-Esta es una de las canciones que más me gustan en la vida. La escribió Robert Smith de The Cure y se inspiró en un viaje a la playa que hizo con Mary Poole, quien luego se convirtió en su esposa. El lugar exacto es Beachy Head, unos acantilados famosos en el sur de Inglaterra. Pero la canción tiene un lado un poco turbio. Aunque habla de amor y de romance, Beachy Head es uno de los lugares donde más gente va a suicidarse en todo el mundo, y Robert Smith pasó una noche mala en ese lugar. Se juntan los temas de Robert Smith sobre cómo es lidiar con la depresión al mismo tiempo que te enamoras. Cuenta que la canción entera trata de sentir algo tan intenso que literalmente te marea, como si te diera vértigo estar atrapado entre todo el amor y el romance, y la tristeza que llevas por dentro.
+Esta es una de las canciones que más me gustan en la vida. La escribió Robert Smith de The Cure y se inspiró en un viaje a la playa que hizo con Mary Poole, quien luego se convirtió en su esposa. El lugar exacto es Beachy Head, unos acantilados famosos en el sur de Inglaterra.
+
+Pero la canción tiene un lado un poco turbio. Aunque habla de amor y de romance, Beachy Head es uno de los lugares donde más gente va a suicidarse en todo el mundo, y Robert Smith pasó una noche mala en ese lugar.
+
+Se juntan los temas de Robert Smith sobre cómo es lidiar con la depresión al mismo tiempo que te enamoras. Cuenta que la canción entera trata de sentir algo tan intenso que literalmente te marea, como si te diera vértigo estar atrapado entre todo el amor y el romance, y la tristeza que llevas por dentro.
 
 </details>
 
@@ -34,7 +38,9 @@ Me escaparé contigo.
 
 <details class="meaning"><summary>Ver el significado</summary>
 
-Nunca he sido alguien a quien realmente le guste mudarse; toda mi vida me he estado mudando de un lugar a otro. Siento que no he tenido un hogar estable. Y como adulto, nunca me ha gustado mudarme de un lugar a otro. Pero honestamente, al conocerte, sé que puedo ir a cualquier parte y seguiré siendo feliz. Me recuerda un poco a la serie que me mostraste, "Cuando la vida te da mandarinas", donde ellos corren juntos y huyen.
+Nunca he sido alguien a quien realmente le guste mudarse; toda mi vida me he estado mudando de un lugar a otro. Siento que no he tenido un hogar estable. Y como adulto, nunca me ha gustado mudarme de un lugar a otro.
+
+Pero honestamente, al conocerte, sé que puedo ir a cualquier parte y seguiré siendo feliz. Me recuerda un poco a la serie que me mostraste, "Cuando la vida te da mandarinas", donde ellos corren juntos y huyen.
 
 </details>
 
@@ -42,7 +48,9 @@ Girando en ese borde vertiginoso
 
 <details class="meaning"><summary>Ver el significado</summary>
 
-La verdad es que esta parte de la canción me pone muy sentimental. Me hace pensar en la época en que estaba muy deprimido. Sabiendo la historia detrás de la canción, con Robert Smith borracho al borde del acantilado que platicamos y a punto de morir, siento que se me juntan dos cosas muy fuertes. Por un lado, lo que siento al estar enamorándome de ti y, por el otro, ese mareo que me daban los síntomas de la depresión. Es como si ambas sensaciones se mezclaran por completo. Por suerte, lo que sigue en la letra hace que todo cobre sentido y me deja con una mejor luz.
+La verdad es que esta parte de la canción me pone muy sentimental. Me hace pensar en la época en que estaba muy deprimido. Sabiendo la historia detrás de la canción, con Robert Smith borracho al borde del acantilado que platicamos y a punto de morir, siento que se me juntan dos cosas muy fuertes.
+
+Por un lado, lo que siento al estar enamorándome de ti y, por el otro, ese mareo que me daban los síntomas de la depresión. Es como si ambas sensaciones se mezclaran por completo. Por suerte, lo que sigue en la letra hace que todo cobre sentido y me deja con una mejor luz.
 
 </details>
 
@@ -90,7 +98,11 @@ Abrí mis ojos
 
 <details class="meaning"><summary>Ver el significado</summary>
 
-Creo que esta parte realmente une la tristeza con el amor de la canción. Comenzando con la hermosa línea, "La luz del día me lamió hasta darme forma", esto me recuerda estar en ese lugar oscuro y cómo se sintió conocerte y cómo tu luz suavemente me dio forma. Porque cuando estás deprimido te sientes roto, te sientes desarmado. "Debo haber estado dormido por días", para mí, se sintió como un año entero. Y ahora mismo eres una de mis mayores motivaciones. Amo estar contigo, amo tu rostro, amo tus labios, me abriste los ojos. Con esto me refiero a que, cuando te conocí a nivel personal, fue como la gota que derramó el vaso, y me hiciste salir del estado en el que estaba porque me había cerrado mucho. En cuanto al amor, estaba acabado, estaba completamente cerrado, pero tú realmente me abriste los ojos.
+Creo que esta parte realmente une la tristeza con el amor de la canción. Comenzando con la hermosa línea, "La luz del día me lamió hasta darme forma", esto me recuerda estar en ese lugar oscuro y cómo se sintió conocerte y cómo tu luz suavemente me dio forma. Porque cuando estás deprimido te sientes roto, te sientes desarmado.
+
+"Debo haber estado dormido por días", para mí, se sintió como un año entero. Y ahora mismo eres una de mis mayores motivaciones. Amo estar contigo, amo tu rostro, amo tus labios, me abriste los ojos.
+
+Con esto me refiero a que, cuando te conocí a nivel personal, fue como la gota que derramó el vaso, y me hiciste salir del estado en el que estaba porque me había cerrado mucho. En cuanto al amor, estaba acabado, estaba completamente cerrado, pero tú realmente me abriste los ojos.
 
 </details>
 
@@ -114,6 +126,8 @@ Como el cielo
 
 <details class="meaning"><summary>Ver el significado</summary>
 
-Al final de la canción hay unas frases "suave y sola". Y con "suave" no me refiero nada más a que seas muy bonita o que tengas la piel súper cuidada como de muñeca de porcelana, sino a que tu alma y tu forma de amar se sienten ligeras y llenas de paz. Lo de "sola" lo dice porque, honestamente, alguien tan increíble como tú no debería tener que sentirse así jamás. Pero bueno, olvidando un poco la parte triste de la letra, lo que más me fascina es la frase del final que le da el nombre a la canción: "eres justo como el cielo". Y la verdad, Moon, tú eres exactamente eso para mí. Eres tal como el cielo, me haces sentir como si estuviera en el cielo. No te imaginas cómo me siento cuando estoy cerca de ti, me acercas a Dios.
+Al final de la canción hay unas frases "suave y sola". Y con "suave" no me refiero nada más a que seas muy bonita o que tengas la piel súper cuidada como de muñeca de porcelana, sino a que tu alma y tu forma de amar se sienten ligeras y llenas de paz. Lo de "sola" lo dice porque, honestamente, alguien tan increíble como tú no debería tener que sentirse así jamás.
+
+Pero bueno, olvidando un poco la parte triste de la letra, lo que más me fascina es la frase del final que le da el nombre a la canción: "eres justo como el cielo". Y la verdad, Moon, tú eres exactamente eso para mí. Eres tal como el cielo, me haces sentir como si estuviera en el cielo. No te imaginas cómo me siento cuando estoy cerca de ti, me acercas a Dios.
 
 </details>

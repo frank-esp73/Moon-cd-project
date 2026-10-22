@@ -31,7 +31,9 @@ No intentes decepcionarte
 
 <details class="meaning"><summary>Ver el significado</summary>
 
-Siento que Tom es un genio para escribir letras que realmente capturan lo que es el amor, porque lo aterriza a la realidad. Todos hemos tenido noches de insomnio en las que la cabeza nos da mil vueltas y no para de pensar. Muchas veces nos tiramos para abajo nosotros mismos por el simple miedo a salir lastimados o a que las cosas salgan mal. Terminamos haciéndonos los que no nos importa o alejándonos de todo solo para protegernos. Pero la verdad es que si nunca te arriesgas por nada, nunca vas a fallar. Al final del día, es puro miedo disfrazado de sentido común.
+Siento que Tom es un genio para escribir letras que realmente capturan lo que es el amor, porque lo aterriza a la realidad. Todos hemos tenido noches de insomnio en las que la cabeza nos da mil vueltas y no para de pensar.
+
+Muchas veces nos tiramos para abajo nosotros mismos por el simple miedo a salir lastimados o a que las cosas salgan mal. Terminamos haciéndonos los que no nos importa o alejándonos de todo solo para protegernos. Pero la verdad es que si nunca te arriesgas por nada, nunca vas a fallar. Al final del día, es puro miedo disfrazado de sentido común.
 
 </details>
 

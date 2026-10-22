@@ -29,7 +29,9 @@ Una que te quedará perfecta para ti
 
 <details class="meaning"><summary>Ver el significado</summary>
 
-Esta parte de la canción me encanta porque habla de querer hacer cosas increíbles aunque sean imposibles. Cosas como caminar por cañones en plena avenida, traer el sonido del cielo o armar una corona con el sol. Sé que suena a fantasía, pero el punto es que, si fuera posible, lo haría sin pensarlo dos veces. Cuando pienso en ti Montse, entiendo perfecto ese sentimiento de querer dar lo mejor y hacer todo perfecto para la persona que amas, aunque en la vida real a veces nos equivoquemos. Al final, lo que de verdad cuenta y lo que la canción transmite tan bien, es esa intención sincera de dar tu mejor esfuerzo para la persona que amas.
+Esta parte de la canción me encanta porque habla de querer hacer cosas increíbles aunque sean imposibles. Cosas como caminar por cañones en plena avenida, traer el sonido del cielo o armar una corona con el sol. Sé que suena a fantasía, pero el punto es que, si fuera posible, lo haría sin pensarlo dos veces.
+
+Cuando pienso en ti Montse, entiendo perfecto ese sentimiento de querer dar lo mejor y hacer todo perfecto para la persona que amas, aunque en la vida real a veces nos equivoquemos. Al final, lo que de verdad cuenta y lo que la canción transmite tan bien, es esa intención sincera de dar tu mejor esfuerzo para la persona que amas.
 
 </details>
 
@@ -63,7 +65,9 @@ es solo una ilusión causada por el giro de la Tierra.
 
 <details class="meaning"><summary>Ver el significado</summary>
 
-Esta parte de la canción suena un poco pesimista, pero en realidad tiene un mensaje bueno. El cantante te recuerda que la vida se va rápido y que lo bueno cuesta trabajo mantenerlo. Pero en lugar de deprimirse pensando en que todos nos vamos a morir, te anima a ponerte las pilas, disfruta a la gente que amas y deja que ellos te disfruten a ti. Mantener las cosas buenas no es fácil, pero tampoco es imposible. Luego dice una frase genial: "El sol nunca se pone, es solo una ilusión porque la Tierra gira". Te dice que, aunque sientas que todo está oscuro y va mal, el sol sigue ahí. Todo es cuestión de perspectiva.
+Esta parte de la canción suena un poco pesimista, pero en realidad tiene un mensaje bueno. El cantante te recuerda que la vida se va rápido y que lo bueno cuesta trabajo mantenerlo. Pero en lugar de deprimirse pensando en que todos nos vamos a morir, te anima a ponerte las pilas, disfruta a la gente que amas y deja que ellos te disfruten a ti. Mantener las cosas buenas no es fácil, pero tampoco es imposible.
+
+Luego dice una frase genial: "El sol nunca se pone, es solo una ilusión porque la Tierra gira". Te dice que, aunque sientas que todo está oscuro y va mal, el sol sigue ahí. Todo es cuestión de perspectiva.
 
 </details>
 

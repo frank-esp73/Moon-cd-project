@@ -8,7 +8,9 @@ Y una heroína de verdad
 
 <details class="meaning"><summary>Ver el significado</summary>
 
-Esta es la parte más repetida de la canción y creo que la elegí porque a veces tengo problemas para discernir y explicar cómo me siento por ti. Te veo como un héroe por la forma en que trabajas, tienes una voluntad inquebrantable. Pero también creo que eres humano, y es posible ser ambos. A veces representamos a los héroes como perfectos o sin defectos, pero creo que puedes ser ambas cosas. Amo la forma en que cuidas a las personas cercanas a ti e incluso a las que no lo son, realmente admiro eso de ti. Lo que me has mostrado de ti, tus defectos, me hace conectar contigo. Te percibo humano, cometes errores, pero también haces tu mayor esfuerzo para arrepentirte y mejorar. Eres simplemente una de las personas más increíbles que he conocido y que jamás conoceré.
+Esta es la parte más repetida de la canción y creo que la elegí porque a veces tengo problemas para discernir y explicar cómo me siento por ti. Te veo como un héroe por la forma en que trabajas, tienes una voluntad inquebrantable. Pero también creo que eres humano, y es posible ser ambos. A veces representamos a los héroes como perfectos o sin defectos, pero creo que puedes ser ambas cosas.
+
+Amo la forma en que cuidas a las personas cercanas a ti e incluso a las que no lo son, realmente admiro eso de ti. Lo que me has mostrado de ti, tus defectos, me hace conectar contigo. Te percibo humano, cometes errores, pero también haces tu mayor esfuerzo para arrepentirte y mejorar. Eres simplemente una de las personas más increíbles que he conocido y que jamás conoceré.
 
 </details>
 

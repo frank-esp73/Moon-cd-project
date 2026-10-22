@@ -13,7 +13,9 @@ Parálisis del sueño, juraría que te sentía allí
 
 La canción es de Adrianne Lenker, de mis artistas favoritas.
 
-Me gusta esta canción porque comienza describiendo un sueño, un sueño increíble desde la primera línea. Habla sobre no poder despertar porque el sueño la tenía atrapada, como si no quisiera irse o no pudiera. Creo que esto podría ser alguien que está un poco perdido a través del dolor o la distancia. Pero luego, creo que lo ata para mí en la siguiente línea, "vacante como una feria cerrada". Una feria es un lugar de alegría, color, ruido, luces; quiero decir, hay niños corriendo, usualmente durante el verano. Pero una feria cerrada mantiene las atracciones vacías, no hay nadie allí, como si la vida se hubiera drenado de ella. Así que es más que ella esté vacía, dice que solía estar llena de luz y diversión, y luego, todavía es visible, lo que la hace aún más inquietante.
+Me gusta esta canción porque comienza describiendo un sueño, un sueño increíble desde la primera línea. Habla sobre no poder despertar porque el sueño la tenía atrapada, como si no quisiera irse o no pudiera. Creo que esto podría ser alguien que está un poco perdido a través del dolor o la distancia.
+
+Pero luego, creo que lo ata para mí en la siguiente línea, "vacante como una feria cerrada". Una feria es un lugar de alegría, color, ruido, luces; quiero decir, hay niños corriendo, usualmente durante el verano. Pero una feria cerrada mantiene las atracciones vacías, no hay nadie allí, como si la vida se hubiera drenado de ella. Así que es más que ella esté vacía, dice que solía estar llena de luz y diversión, y luego, todavía es visible, lo que la hace aún más inquietante.
 
 </details>
 
@@ -49,7 +51,9 @@ Y me desperté de nuevo en la carretera
 
 <details class="meaning"><summary>Ver el significado</summary>
 
-Luego ella empieza a hablar de la siguiente noche, así que no es solo un sueño, es algo recurrente que le sigue pasando. Casi soñando que ella puede sentir su piel. Pero ya no es aterrador, ella no está paralizada; la imagen del zombi ha desaparecido. Se siente cálido, es el sueño que ella realmente quería. Pero por supuesto, como es un sueño, necesitas despertar y se esfuma, se le escapa. La pesadilla la atrapa, pero el hermoso, cálido y tierno sueño no se queda. Luego ella se despierta, y con "el camino", creo que está hablando de la vida. Creo que esto podría ser un sentimiento de estar separados, de estar físicamente distanciados, probablemente anhelo.
+Luego ella empieza a hablar de la siguiente noche, así que no es solo un sueño, es algo recurrente que le sigue pasando. Casi soñando que ella puede sentir su piel. Pero ya no es aterrador, ella no está paralizada; la imagen del zombi ha desaparecido. Se siente cálido, es el sueño que ella realmente quería.
+
+Pero por supuesto, como es un sueño, necesitas despertar y se esfuma, se le escapa. La pesadilla la atrapa, pero el hermoso, cálido y tierno sueño no se queda. Luego ella se despierta, y con "el camino", creo que está hablando de la vida. Creo que esto podría ser un sentimiento de estar separados, de estar físicamente distanciados, probablemente anhelo.
 
 </details>
 
@@ -59,9 +63,15 @@ Y supe que tú también habías entendido
 
 <details class="meaning"><summary>Ver el significado</summary>
 
-Me encantan estas siguientes líneas. Ella dice: cómo resuenan tus palabras. "Ring" significa resonancia; me hace pensar en una campana de las que tocan en las iglesias de los pueblos. Cuando se toca una campana, te sacude el cuerpo, no solo los oídos. La chica zombi no podía responder a sus preguntas, pero ahora no solo hay palabras sino que resuenan por todo su cuerpo. Y luego dice "something kind of sweet and blue", dulce como la ternura del amor, azul como la tristeza. Así que saber de alguien a quien echas de menos es reconfortante, pero al mismo tiempo un poco doloroso, porque te recuerda que no estás con la persona. Pero luego ella dice "y supe que tú también habías entendido".
+Me encantan estas siguientes líneas. Ella dice: cómo resuenan tus palabras. "Ring" significa resonancia; me hace pensar en una campana de las que tocan en las iglesias de los pueblos. Cuando se toca una campana, te sacude el cuerpo, no solo los oídos. La chica zombi no podía responder a sus preguntas, pero ahora no solo hay palabras sino que resuenan por todo su cuerpo.
 
-Esta es la resolución de la estrofa, de todas las estrofas, en realidad. El mayor temor de la autora era que la persona fuera un cascarón vacío o inalcanzable, que en realidad no estuviera allí, como un zombi. Pero la frase lo aclara: la persona siempre estuvo ahí y la entendía. Además, hay algunas palabras que se utilizan y que creo que son clave. "I knew" (sabía) es diferente a "almost sworn" (casi juré), y "sworn" (juré) del principio de la canción. "You've been understanding" (me has estado entendiendo), lo que incluso sugiere que es algo del pasado. Ella se da cuenta de que la conexión ya existía antes, incluso cuando se sentía vacía. Y termina con "también", lo que significa que es mutuo: ella entendía a la otra persona y la otra persona la entendía a ella. Me recuerda a las conversaciones profundas que hemos tenido y al miedo a compartir cosas, sintiendo que la otra persona no te entenderá o te juzgará. Pero siempre me sorprendes, y lo hiciste. Te entiendo, y siento que tú me entiendes, amor.
+Y luego dice "something kind of sweet and blue", dulce como la ternura del amor, azul como la tristeza. Así que saber de alguien a quien echas de menos es reconfortante, pero al mismo tiempo un poco doloroso, porque te recuerda que no estás con la persona. Pero luego ella dice "y supe que tú también habías entendido".
+
+Esta es la resolución de la estrofa, de todas las estrofas, en realidad. El mayor temor de la autora era que la persona fuera un cascarón vacío o inalcanzable, que en realidad no estuviera allí, como un zombi. Pero la frase lo aclara: la persona siempre estuvo ahí y la entendía.
+
+Además, hay algunas palabras que se utilizan y que creo que son clave. "I knew" (sabía) es diferente a "almost sworn" (casi juré), y "sworn" (juré) del principio de la canción. "You've been understanding" (me has estado entendiendo), lo que incluso sugiere que es algo del pasado. Ella se da cuenta de que la conexión ya existía antes, incluso cuando se sentía vacía. Y termina con "también", lo que significa que es mutuo: ella entendía a la otra persona y la otra persona la entendía a ella.
+
+Me recuerda a las conversaciones profundas que hemos tenido y al miedo a compartir cosas, sintiendo que la otra persona no te entenderá o te juzgará. Pero siempre me sorprendes, y lo hiciste. Te entiendo, y siento que tú me entiendes, amor.
 
 </details>
 
