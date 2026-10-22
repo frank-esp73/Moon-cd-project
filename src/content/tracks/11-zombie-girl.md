@@ -59,9 +59,9 @@ Y supe que tú también habías entendido
 
 <details class="meaning"><summary>Ver el significado</summary>
 
-Me encantan estas siguientes líneas. Ella dice: cómo resuenan tus palabras. Ring significa resonancia; me hace pensar en campanas. Cuando se toca una campana, te sacude el cuerpo, no solo los oídos. La chica zombi no podía responder a sus preguntas, pero ahora hay palabras y resuenan por su cuerpo. Y luego dice "something kind of sweet and blue", dulce como la ternura del amor, azul como la tristeza. Así que saber de alguien a quien echas de menos es reconfortante, pero al mismo tiempo un poco doloroso, porque te recuerda que no estás con la persona. Pero luego ella dice "y supe que tú también habías entendido".
+Me encantan estas siguientes líneas. Ella dice: cómo resuenan tus palabras. "Ring" significa resonancia; me hace pensar en una campana de las que tocan en las iglesias de los pueblos. Cuando se toca una campana, te sacude el cuerpo, no solo los oídos. La chica zombi no podía responder a sus preguntas, pero ahora no solo hay palabras sino que resuenan por todo su cuerpo. Y luego dice "something kind of sweet and blue", dulce como la ternura del amor, azul como la tristeza. Así que saber de alguien a quien echas de menos es reconfortante, pero al mismo tiempo un poco doloroso, porque te recuerda que no estás con la persona. Pero luego ella dice "y supe que tú también habías entendido".
 
-Esta es la resolución de la estrofa, de todas las estrofas, en realidad. El mayor temor de la autora era que la persona fuera un cascarón vacío o inalcanzable, que en realidad no estuviera allí, como un zombi. Pero la frase lo aclara: la persona siempre estuvo ahí y la entendía. Además, hay algunas palabras que se utilizan y que creo que son clave. "I knew" (sabía) es sin duda diferente de "almost sworn" (casi juré), de antes. "You've been understanding" (me has estado entendiendo), lo que incluso sugiere que es algo del pasado. Ella se da cuenta de que la conexión ya existía antes, incluso cuando se sentía vacía. Y termina con "también", lo que significa que es mutuo: ella entendía a la otra persona y la otra persona la entendía a ella. Me recuerda a las conversaciones profundas que hemos tenido y al miedo a compartir cosas, sintiendo que la otra persona no te entenderá o te juzgará. Pero siempre me sorprendes, y lo hiciste. Te entiendo, y siento que tú me entiendes, amor.
+Esta es la resolución de la estrofa, de todas las estrofas, en realidad. El mayor temor de la autora era que la persona fuera un cascarón vacío o inalcanzable, que en realidad no estuviera allí, como un zombi. Pero la frase lo aclara: la persona siempre estuvo ahí y la entendía. Además, hay algunas palabras que se utilizan y que creo que son clave. "I knew" (sabía) es diferente a "almost sworn" (casi juré), y "sworn" (juré) del principio de la canción. "You've been understanding" (me has estado entendiendo), lo que incluso sugiere que es algo del pasado. Ella se da cuenta de que la conexión ya existía antes, incluso cuando se sentía vacía. Y termina con "también", lo que significa que es mutuo: ella entendía a la otra persona y la otra persona la entendía a ella. Me recuerda a las conversaciones profundas que hemos tenido y al miedo a compartir cosas, sintiendo que la otra persona no te entenderá o te juzgará. Pero siempre me sorprendes, y lo hiciste. Te entiendo, y siento que tú me entiendes, amor.
 
 </details>
 
@@ -82,15 +82,15 @@ Por tu mente
 
 Hay un pequeño cambio al final de la canción que me parece importante. Antes habla del vacío, pero después dice sobre el vacío. Puede parecer un detalle insignificante, pero creo que cambia bastante el sentido.
 
-Por un lado, hablar sobre el vacío da la sensación de que ya no está atrapada en él, sino que ahora puede mirarlo desde otra perspectiva. Y, por otro, parece que ha dejado de centrarse tanto en sí misma para empezar a interesarse por alguien más.
+Hablar sobre el vacío da la sensación de que ya no está atrapada en él, sino que ahora puede mirarlo desde otra perspectiva. Y, por otro, parece que ha dejado de centrarse tanto en sí misma para empezar a interesarse por alguien más.
 
-Creo que eso se nota especialmente cuando dice: háblame de tu naturaleza. Ya no se trata solamente de expresar lo que ella siente, sino de conocer a la otra persona, de entender cómo piensa y quién es realmente. Porque es muy fácil creer que conocemos a alguien y, aun así, malinterpretarlo por completo.
+Creo que eso se nota especialmente cuando dice: háblame de tu naturaleza. Ya no se trata solamente de expresar lo que ella siente, sino de conocer a la otra persona, de entender cómo piensa y quién es realmente. Porque es muy fácil creer que conocemos a alguien y aun así, malinterpretar por completo.
 
-Para mí, el punto importante es que ahora puede compartir ese vacío con alguien. Ya no tiene que enfrentarlo sola. La conexión que tiene con esa persona es real, y eso cambia la manera en que vive sus sentimientos.
+Para mí, el punto importante es que ahora puede hablar de ese vacío con alguien. Ya no tiene que enfrentarlo sola. La conexión que tiene con esa persona es real, y eso cambia la manera en que vive sus sentimientos.
 
 Por eso me gusta tanto la pregunta que aparece al final: ¿qué tienes en mente? Es algo muy sencillo, pero también una de las formas más cotidianas de demostrarle a alguien que te importa. No necesitas decir algo extraordinario; basta con querer escuchar lo que la otra persona tiene que decir.
 
-Durante casi toda la canción, ella está centrada en sus propios sueños, sus emociones y su mundo interior. Pero al final ocurre algo distinto: deja de mirar solamente hacia dentro y empieza a mirar hacia la persona que tiene enfrente.
+Durante casi toda la canción, ella está centrada en sus propios sueños, sus emociones y su mundo interior. Pero al final ocurre algo distinto: deja de mirar solamente hacia dentro y empieza a mirar hacia afuera, la persona que tiene enfrente.
 
 Y entonces pregunta: ¿qué pasa por tu mente? Creo que ese es el verdadero cambio. Ya no se trata únicamente de lo que ella siente, sino de hacer espacio para lo que siente alguien más.
 
