@@ -6,6 +6,7 @@ const tracks = defineCollection({
 	schema: z.object({
 		number: z.number(),
 		title: z.string(),
+		instrumental: z.boolean().optional(),
 	}),
 });
 

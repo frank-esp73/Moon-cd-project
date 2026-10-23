@@ -1,6 +1,5 @@
 ---
 number: 9
 title: "Photograph"
+instrumental: true
 ---
-
-*Esta pista es instrumental, sin letra.*

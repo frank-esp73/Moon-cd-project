@@ -22,19 +22,28 @@ const trackEntries = await Promise.all(
 
 	<ol class="tracklist">
 		{
-			trackEntries.map(({ track, Content }) => (
-				<li>
-					<details class="track">
-						<summary>
+			trackEntries.map(({ track, Content }) =>
+				track.data.instrumental ? (
+					<li>
+						<div class="track-row">
 							<span class="num">{String(track.data.number).padStart(2, '0')}</span>
 							<span class="title">{track.data.title}</span>
-						</summary>
-						<div class="lyrics">
-							<Content />
 						</div>
-					</details>
-				</li>
-			))
+					</li>
+				) : (
+					<li>
+						<details class="track">
+							<summary>
+								<span class="num">{String(track.data.number).padStart(2, '0')}</span>
+								<span class="title">{track.data.title}</span>
+							</summary>
+							<div class="lyrics">
+								<Content />
+							</div>
+						</details>
+					</li>
+				)
+			)
 		}
 	</ol>
 
@@ -115,6 +124,14 @@ const trackEntries = await Promise.all(
 
 	.track summary:hover {
 		color: var(--accent);
+	}
+
+	.track-row {
+		display: flex;
+		align-items: baseline;
+		gap: 1.25rem;
+		padding: 0.9rem 0.25rem;
+		color: var(--muted);
 	}
 
 	.num {
